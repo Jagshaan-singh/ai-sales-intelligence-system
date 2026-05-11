@@ -1,0 +1,28 @@
+# ============================================================
+#  Sales Forecasting Project — requirements.txt
+#  Install with: pip install -r requirements.txt
+# ============================================================
+
+# Core data handling
+pandas==2.2.2
+numpy==1.26.4
+
+# Visualization
+matplotlib==3.9.0
+seaborn==0.13.2
+
+# Time series forecasting
+prophet==1.1.5
+
+# Statistical models (ARIMA)
+statsmodels==0.14.2
+
+# Machine learning (Linear Regression, metrics)
+scikit-learn==1.5.0
+
+# Web app deployment
+streamlit==1.35.0
+
+# Jupyter notebook support (optional)
+notebook==7.2.0
+ipykernel==6.29.4
